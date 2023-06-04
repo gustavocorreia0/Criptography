@@ -1,7 +1,7 @@
 import sys
 
 alphabet = 'abcdefghijklmnopqrstuvwxyz '
-rot = 3
+rot = 13
 rep = 0
 def cipher(message, dir):
     m = ''
